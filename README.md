@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kiruba-sagar-01a2b6200) 
-[![Website](https://img.shields.io/badge/Website-orange?style=flat)](https://sites.google.com/view/kirubasagar/home)
+[![My Website](https://img.shields.io/badge/MyWebsite-orange?style=flat)](https://sites.google.com/view/kirubasagar/home)
 
 
 
