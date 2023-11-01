@@ -5,7 +5,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kiruba-sagar-01a2b6200) 
 [![My Website](https://img.shields.io/badge/MyWebsite-orange?style=flat)](https://sites.google.com/view/kirubasagar/home)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sagar2522)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-005FF9?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/sagarv2522)
 
 
 # 💻 Tech Stack:
