@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently pursuing mechatronics engineering <br>👯‍♀️ I'm looking to collaborate on ML & Analyst curious people <br>🤝 I'm looking for help with ML models for analysis<br>🌱 I'm currently learning data analytic<br>💬 Ask me about data analytic<br>⚡ anime lover
+🔭 I'm currently pursuing mechatronics engineering <br>👯‍♀️ I'm looking to collaborate on ML & Analyst curious people <br>🤝 I'm looking for help with ML models for analysis<br>🌱 I'm currently learning data Science<br>💬 Ask me about data analytics<br>⚡ anime lover
 
 
 ## 🌐 Socials:
